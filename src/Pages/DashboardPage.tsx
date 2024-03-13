@@ -5,7 +5,7 @@ const DashboardPage = () => {
     return (
         <BasePage>
             <div className="w-full flex justify-center text-[30px] font-bold">
-                Dashboard                
+                My Email is kevin12.scott14@gmail.com                
             </div>
         </BasePage>
     )
